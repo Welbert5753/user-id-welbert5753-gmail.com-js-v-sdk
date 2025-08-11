@@ -355,5 +355,3 @@ $ npm run test_nft_contract
 # Test all
 $ npm run test_all
 ```
-
-Feel free to modify these test example files. Write your own code as wallet client and integrate into your project.
